@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Sharif! 👋
+
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br/>
+👩🏻‍🎓 Studied Computer Science at Kalinga Institute of Industrial Technology <br/>
+💭 Currently Implementing Retrieval Augmented Generation and LLMs in my Internship
+
+!
+
+[![Sharif's GitHub stats](https://github-readme-stats.vercel.app/api?username=limpinghitman&show_icons=true&theme=radical)](https://github.com/limpinghitman/github-readme-stats)
 
 <!--
 **limpinghitman/limpinghitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
